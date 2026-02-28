@@ -1,6 +1,6 @@
 # Real Estate Market Price Drivers
 
-![Project Banner](https://via.placeholder.com/800x200?text=Real+Estate+Market+Drivers)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Real%20Estate%20Price%20Drivers&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 ## 📌 Project Overview & Objective
 This project analyzes **Real Estate Market Data** to uncover actionable business insights. The main objective was to understand the underlying patterns of Property Pricing and provide strategic recommendations to Real Estate Investors.
@@ -21,8 +21,7 @@ The analysis leverages the **Zillow API / Airbnb Open Data**.
 - **Insight 1:** Adding "smart home" amenities increases listing potential price by 8% in urban zip codes.
 
 ## 📈 Visualizations
-![Visualization 1](https://via.placeholder.com/400x250?text=Geospatial+Price+Map)
-![Visualization 2](https://via.placeholder.com/400x250?text=Amenities+Impact+Chart)
+![Visualization 1](https://github-readme-stats.vercel.app/api/pin/?username=hazemelerefey&repo=analytics-realestate-drivers&theme=radical)
 
 ## 🚀 How to Run the Notebook
 1. Clone this repository:
